@@ -3735,7 +3735,7 @@
 			"landing": "north-korea",
 			"apogee": "unknown",
 			"distance": "350",
-			"bearing": 48,
+			"bearing": 40,
 			"outcome": "unknown",
 			"description": "2発の実験の内の1発目"
 		}, {
@@ -3747,7 +3747,7 @@
 			"landing": "north-korea",
 			"apogee": "unknown",
 			"distance": "350",
-			"bearing": 48,
+			"bearing": 40,
 			"outcome": "unknown",
 			"description": "2発の実験の内の2発目"
 		}],
